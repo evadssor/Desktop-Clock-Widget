@@ -21,5 +21,3 @@ npm start
 - The app keeps its settings in Electron's user data directory, so your preferences persist between launches.
 - NTP sync uses `pool.ntp.org` and refreshes every 5 minutes.
 - Closing the window hides it to the system tray; quit from the tray menu when you want to fully exit.
-# Desktop-Clock-Widget
-Windows desktop clock widget with NTP sync, timezone switching, digital clock face, and always-on-top mode.
