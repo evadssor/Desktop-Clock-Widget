@@ -1,0 +1,12 @@
+{
+  "name": "clock-widget",
+  "version": "1.0.0",
+  "description": "Desktop clock widget with NTP sync, timezone controls, and always-on-top mode.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^31.7.7"
+  }
+}
